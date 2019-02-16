@@ -2,7 +2,7 @@
 title:              "The Plain"
 description:        "A minimalist Jekyll theme"
 author_name:        "Siqing" # change this to your name
-logo_url:           /assets/YIRGA.jpg
+logo_url:           ./assets/YIRGA.png
 
 # Site Settings
 url:                https://siqingzheng.github.io # main url
