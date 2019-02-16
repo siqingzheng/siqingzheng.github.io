@@ -6,8 +6,8 @@ logo_url:           https://pic3.zhimg.com/5b2ffc988545e815bcea4888b1c6cfb4_xl.j
 
 # Site Settings
 url:                https://siqingzheng.github.io # main url
-baseurl:            /
-permalink:          /:title # Post permalink
+baseurl:            ""
+# permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
