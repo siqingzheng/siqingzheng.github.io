@@ -2,7 +2,7 @@
 title:              "Siqing"
 description:        "The one who rocks. Seriously."
 author_name:        "Siqing" # change this to your name
-logo_url:           ./assets/YIRGA.png
+logo_url:           https://siqingzheng.github.io/assets/YIRGA.png
 
 # Site Settings
 url:                https://siqingzheng.github.io # main url
